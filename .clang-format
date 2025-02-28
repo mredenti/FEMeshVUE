@@ -39,4 +39,3 @@ BraceWrapping:
   AfterExternBlock: true
   BeforeCatch: false
   BeforeElse: false
-...
