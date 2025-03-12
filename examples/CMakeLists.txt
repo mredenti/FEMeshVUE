@@ -1,2 +1,2 @@
-add_executable(main.x main.cpp)
-target_link_libraries(main.x PRIVATE core)
+add_executable(torus.x torus.cpp)
+target_link_libraries(torus.x PRIVATE mesh)
