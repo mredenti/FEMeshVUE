@@ -27,7 +27,7 @@ ObjCBlockIndentWidth: 2
 ColumnLimit:     80
 AlignConsecutiveDeclarations: true
 
-BreakBeforeBraces: Custom
+BreakBeforeBraces: Attach
 BraceWrapping:
   AfterClass: true
   AfterControlStatement: false
