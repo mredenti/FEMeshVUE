@@ -10,10 +10,13 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 ########################
 
 option(BUILD_DOC "Build documentation" ON)
-
+option(BUILD_EXAMPLES "Build example programs" ON)
 
 add_subdirectory(femeshvue)
 
+if(BUILD_EXAMPLES)
+    add_subdirectory(examples)
+endif(BUILD_EXAMPLES)
 
 
 ########################
