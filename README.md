@@ -1,6 +1,6 @@
 # FEMeshVUE
 
-Finite Element Mesh Visualization & Unified Engine aims to represent a mesh data structure and render it on screen as a visual representation using OpenGL and GLFW.
+Finite Element Mesh Visualization & Unified Engine aims to represent a mesh data structure and render it on screen as a visual representation using OpenGL.
 
 ## Configure
 
